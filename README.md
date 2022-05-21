@@ -64,6 +64,8 @@ Open RStudio and follow these instructions:
 
 ### R Resources
 
+<a href = "https://docs.google.com/presentation/d/1g52v5phQ45f7SQlI9mIFNPEn0I8MCzqmxogzmB-iALU/edit?usp=sharing">Slides from the presentation introduction</a>
+
 Other places to get more instruction or information on R:
 
 <ul>
