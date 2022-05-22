@@ -59,12 +59,14 @@ Open RStudio and follow these instructions:
 <ul>
 <li> Click on the Tools menu
 <li> Type <b>rmarkdown, tidyverse, haven, table1, finalfit, knitr</b> into the dialog box that opens
+    <ul>
     <li>rmarkdown: package allows you to use the features of RMarkdown</li>
     <li>tidyverse: package used primarily for data management</li>
     <li>haven: package for opening SPSS files and other data types</li>
     <li>table1: package for making well-formatted tables for html documents</li>
     <li>finalfit: package for creating tables that work in html and Microsoft word output</li>
     <li>knitr: package for implementing some of the formatting options in RMarkdown</li>
+    </ul>
 <li> Click install (R will do stuff for a while, this might look like errors but is fine)
 </ul>
 
