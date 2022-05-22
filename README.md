@@ -4,7 +4,7 @@
 
 ### Information and Instructions to Prepare for the Workshop
 
-To follow along, you will need to do two things before the workshop: 
+To follow along, you will need to do two things before the workshop:
 
 <ol>
 <li> Install R and R Studio 
@@ -15,7 +15,7 @@ To follow along, you will need to do two things before the workshop:
 <li> Download and save workshop materials
 <li> Install the rmarkdown, tidyverse, haven, finalfit, knitr, and table1 packages (if you do not already have them)
 </ol>
-  
+
 Follow the instructions below to install and download everything you will need.
 
 ### Install R and R Studio
@@ -59,6 +59,12 @@ Open RStudio and follow these instructions:
 <ul>
 <li> Click on the Tools menu
 <li> Type <b>rmarkdown, tidyverse, haven, table1, finalfit, knitr</b> into the dialog box that opens
+    <li>rmarkdown: package allows you to use the features of RMarkdown</li>
+    <li>tidyverse: package used primarily for data management</li>
+    <li>haven: package for opening SPSS files and other data types</li>
+    <li>table1: package for making well-formatted tables for html documents</li>
+    <li>finalfit: package for creating tables that work in html and Microsoft word output</li>
+    <li>knitr: package for implementing some of the formatting options in RMarkdown</li>
 <li> Click install (R will do stuff for a while, this might look like errors but is fine)
 </ul>
 
