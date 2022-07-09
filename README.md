@@ -57,7 +57,7 @@ Download the participant files and save them together in the same folder on your
 Open RStudio and follow these instructions:
 
 <ul>
-<li> Click on the Tools menu
+<li> Click on the Tools menu and choose Install Packages
 <li> Type <b>rmarkdown, tidyverse, haven, table1, finalfit, knitr</b> into the dialog box that opens
     <ul>
     <li>rmarkdown: package allows you to use the features of RMarkdown</li>
